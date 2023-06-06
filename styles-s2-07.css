@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Rubik+Mono+One&display=swap");
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-image: url("https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/starfield-banner.jpg");
+  background-color: rgb(0, 0, 0);
+  color: antiquewhite;
+  text-align: center;
+}
+
+.titulo-principal {
+  font-family: "Rubik Mono One", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 2;
+  color: antiquewhite;
+}
+
+.titulo-secundario {
+  font-size: 22px;
+}
+
+.span-titulo-secundario {
+  color: rgb(254, 188, 50);
+}
+
+a {
+  color: rgb(254, 188, 50);
+}
+
+.paragrafo-artigo {
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: justify;
+  opacity: 0.8;
+}
